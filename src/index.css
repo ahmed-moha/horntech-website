@@ -1,0 +1,27 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-brand: #48cae4;
+  --color-brand-dark: #0096c7;
+  --color-brand-light: #90e0ef;
+  --color-accent: #ffc300;
+  --color-accent-dark: #e6b000;
+  --font-sans: system-ui, 'Segoe UI', Roboto, sans-serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply m-0 bg-white font-sans text-slate-700 antialiased;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply text-slate-900;
+  }
+}

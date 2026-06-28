@@ -1,0 +1,237 @@
+{
+  "company": {
+    "name": "HornTech Solutions",
+    "legalName": "HornTech Solutions Ltd",
+    "tagline": "Building Somalia's Digital Future",
+    "description": "HornTech Solutions is a Somali technology company providing software development, IT consulting, networking, cybersecurity, and digital transformation services for businesses across Somalia and East Africa.",
+    "industry": "Information Technology",
+    "founded": 2018,
+    "registrationNumber": "SO-REG-2025-001234",
+    "taxId": "TIN-123456789",
+    "employees": 45,
+    "headquarters": {
+      "country": "Somalia",
+      "city": "Mogadishu",
+      "district": "Hodan",
+      "street": "KM4 Road",
+      "building": "HornTech Building",
+      "postalCode": "252"
+    },
+    "logo": "/images/logo.png",
+    "favicon": "/favicon.ico",
+    "coverImage": "/images/office-cover.jpg",
+    "mission": "Empower Somali businesses through innovative technology.",
+    "vision": "To become the leading technology partner in East Africa.",
+    "values": [
+      "Integrity",
+      "Innovation",
+      "Customer Focus",
+      "Teamwork",
+      "Quality"
+    ],
+    "languages": ["Somali", "English", "Arabic"]
+  },
+  "contacts": {
+    "phone": ["+252611234567", "+252615678901"],
+    "email": {
+      "general": "info@horntech.so",
+      "support": "support@horntech.so",
+      "sales": "sales@horntech.so",
+      "careers": "careers@horntech.so"
+    },
+    "website": "https://www.horntech.so",
+    "workingHours": {
+      "Monday": "08:00 - 17:00",
+      "Tuesday": "08:00 - 17:00",
+      "Wednesday": "08:00 - 17:00",
+      "Thursday": "08:00 - 17:00",
+      "Friday": "08:00 - 12:00",
+      "Saturday": "09:00 - 14:00",
+      "Sunday": "Closed"
+    }
+  },
+  "socialMedia": {
+    "facebook": "https://facebook.com/horntech",
+    "linkedin": "https://linkedin.com/company/horntech",
+    "twitter": "https://twitter.com/horntech",
+    "instagram": "https://instagram.com/horntech",
+    "youtube": "https://youtube.com/@horntech",
+    "tiktok": "https://tiktok.com/@horntech"
+  },
+  "services": [
+    {
+      "id": 1,
+      "name": "Software Development",
+      "description": "Custom web and mobile applications.",
+      "icon": "code",
+      "features": [
+        "Web Applications",
+        "Mobile Apps",
+        "API Development",
+        "ERP Systems"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Networking",
+      "description": "Enterprise networking and infrastructure.",
+      "icon": "network",
+      "features": ["LAN/WAN", "Fiber Installation", "Wireless Networks", "VPN"]
+    },
+    {
+      "id": 3,
+      "name": "Cybersecurity",
+      "description": "Protect your business from cyber threats.",
+      "icon": "shield",
+      "features": [
+        "Firewall",
+        "Penetration Testing",
+        "Security Audits",
+        "Monitoring"
+      ]
+    }
+  ],
+  "about": {
+    "story": "Founded in Mogadishu to help Somali businesses adopt modern technology.",
+    "whyChooseUs": [
+      "Experienced Team",
+      "Affordable Pricing",
+      "24/7 Support",
+      "Local Expertise",
+      "International Standards"
+    ]
+  },
+  "team": [
+    {
+      "name": "Ahmed Ali",
+      "position": "Chief Executive Officer",
+      "photo": "/team/ceo.jpg",
+      "bio": "Over 15 years of experience in technology."
+    },
+    {
+      "name": "Fatima Hassan",
+      "position": "Operations Manager",
+      "photo": "/team/operations.jpg",
+      "bio": "Expert in project management."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Government Portal",
+      "client": "Ministry",
+      "category": "Web Development",
+      "image": "/projects/gov.jpg",
+      "description": "National online service portal."
+    },
+    {
+      "title": "Banking Mobile App",
+      "client": "Private Bank",
+      "category": "Mobile Development",
+      "image": "/projects/bank.jpg",
+      "description": "Digital banking application."
+    }
+  ],
+  "clients": [
+    { "name": "Somali Telecom", "logo": "/clients/st.jpg" },
+    { "name": "National Bank", "logo": "/clients/bank.jpg" }
+  ],
+  "testimonials": [
+    {
+      "name": "Mohamed Yusuf",
+      "company": "ABC Logistics",
+      "rating": 5,
+      "comment": "Professional team and excellent service."
+    }
+  ],
+  "pricing": [
+    {
+      "package": "Starter",
+      "price": 500,
+      "currency": "USD",
+      "features": ["Website", "Hosting", "Email Support"]
+    },
+    {
+      "package": "Business",
+      "price": 1500,
+      "currency": "USD",
+      "features": ["Custom Website", "SEO", "Priority Support"]
+    }
+  ],
+  "careers": [
+    {
+      "title": "Frontend Developer",
+      "location": "Mogadishu",
+      "type": "Full Time",
+      "experience": "2+ Years",
+      "salary": "Negotiable"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Do you provide support?",
+      "answer": "Yes, 24/7 technical support."
+    },
+    {
+      "question": "Do you work outside Somalia?",
+      "answer": "Yes, across East Africa and remotely worldwide."
+    }
+  ],
+  "statistics": {
+    "clients": 350,
+    "projects": 520,
+    "employees": 45,
+    "yearsExperience": 8,
+    "countriesServed": 6
+  },
+  "certifications": ["ISO 9001", "Cisco Partner", "Microsoft Partner"],
+  "gallery": [
+    "/gallery/office1.jpg",
+    "/gallery/office2.jpg",
+    "/gallery/team.jpg"
+  ],
+  "blog": [
+    {
+      "title": "Digital Transformation in Somalia",
+      "slug": "digital-transformation",
+      "author": "Ahmed Ali",
+      "date": "2026-01-15"
+    }
+  ],
+  "partners": [{ "name": "Microsoft" }, { "name": "Cisco" }],
+  "downloads": [
+    { "name": "Company Profile", "file": "/downloads/profile.pdf" },
+    { "name": "Service Catalog", "file": "/downloads/services.pdf" }
+  ],
+  "locations": [
+    {
+      "office": "Head Office",
+      "city": "Mogadishu",
+      "district": "Hodan",
+      "phone": "+252611234567",
+      "email": "mogadishu@horntech.so"
+    },
+    {
+      "office": "Branch Office",
+      "city": "Hargeisa",
+      "district": "26 June",
+      "phone": "+252634567890",
+      "email": "hargeisa@horntech.so"
+    }
+  ],
+  "seo": {
+    "title": "HornTech Solutions | Somalia IT Company",
+    "description": "Leading Somali software development and IT services company.",
+    "keywords": ["Somalia", "IT", "Software", "Networking", "Cybersecurity"]
+  },
+  "legal": {
+    "privacyPolicy": "/privacy-policy",
+    "termsOfService": "/terms",
+    "cookiePolicy": "/cookies"
+  },
+  "settings": {
+    "currency": "USD",
+    "timezone": "Africa/Mogadishu",
+    "country": "Somalia",
+    "defaultLanguage": "English"
+  }
+}
